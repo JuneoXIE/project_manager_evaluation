@@ -64,15 +64,15 @@
 
 效益型量化指标隶属度函数图：
 
-![图 4 ， 2 效 益 型 量 化 指 标 隶 属 度 函 数 图 ](.\images\3.png)
+![](./images/3.png)
 
 函数模型：
 
-![цОдхДТД, у;о. —  уто у=о.2  уто, кхдтд, ](.\images\8.png)
+![](./images/8.png)
 
 其中：
 
-<img src=".\images\7.png" alt="image-20210114203717721" style="zoom: 67%;" />
+<img src="./images/7.png" alt="image-20210114203717721" style="zoom: 67%;" />
 
 ### （2）成本型量化指标归一化模型
 
@@ -80,22 +80,22 @@
 
 成本型量化指标隶属度函数图：
 
-![image-20210114203816924](.\images\6.png)
+![](./images/6.png)
 
 函数模型：
 
-![I-K ' 芞 5> ](.\images\4.png)
+![](./images/4.png)
 
 其中：
 
-<img src=".\images\5.png" alt="image-20210114203845466" style="zoom:67%;" />
+<img src="./images/5.png" alt="image-20210114203845466" style="zoom:67%;" />
 
 
 
 ## 5. 输入Excel数据文件格式示例：
 
-![1](./images/1.png)
+![](./images/1.png)
 
 ## 6. 输出绩效结果示例：
 
-![2](.\images\2.png)
+![](./images/2.png)
